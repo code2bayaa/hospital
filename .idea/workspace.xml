@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="045ab4c3-6c4a-4d9d-bb0e-8ec96653cefd" name="Default Changelist" comment="" />
+    <list default="true" id="045ab4c3-6c4a-4d9d-bb0e-8ec96653cefd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/load.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/Pocket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/hospitalDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/hospitalDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/test.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +32,15 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="25xeW8kKKgiQTaOnFOK7eNz2GAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,7 +48,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../student" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\visit_hospital\Images\about_image" />
+      <recent name="D:\xampp\htdocs\visit_hospital\Images\main_home" />
+      <recent name="D:\xampp\htdocs\visit_hospital\Images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,14 +71,36 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1646756732535">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648240017177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1648240017177" />
+    <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647687613700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1647687613700" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1648713266203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1647547919789" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648713266203" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1649050661435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1646756732535" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1646742087641" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1646757176562">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1649050661435" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1649065281065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1646757176562" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1649065281065" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1648889367190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1648889367190" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1648635679648" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648238212163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1648238212163" />
   </component>
 </project>
