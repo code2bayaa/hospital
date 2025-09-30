@@ -75,14 +75,15 @@ input[type=file]{
     background : #F7F8FB;
 }
 #account-nav{
-    width : 28%;
-    height : 98%;
-    margin : 1%;
-    border : 2px solid #fff;
-    float : left;
+    width: 20%;
+    height: 100%;
+    border: 2px solid #fff;
+    float: left;
+    background: #c2bbad;
+    color: #fff;
 }
 #account-content{
-    width : 70%;
+    width : 80%;
     height : 98%;
     margin-top : 1%;
     float : right;
@@ -96,7 +97,7 @@ input[type=file]{
 }
 #main-focus{
     width : 100%;
-    height : 85%;
+    min-height : 85%;
     background : #fff;
 }
 #main-footer{
@@ -114,18 +115,19 @@ input[type=file]{
     background : #fff;
     border-bottom : 1px solid #F7F8FB;
     font-size : 80%;
+    color : #000;
 }
 .account-window{
     display : none;
 }
 #account-nav button{
     height : 40px;
-    width : 98%;
+    width : 78%;
     margin : 1%;
     border-bottom : 1px solid #fff;
-    color : #3F3F44;
-    background : #F7F8FB;
+    background : transparent;
     text-align : left;
+    margin-left : 20%;
 }
 
 #outer-profile{
@@ -149,7 +151,7 @@ input[type=file]{
 }
 #profile-tower{
     border : 1px solid #ccc;
-    height : 98%;
+    height : 200px;
     width : 33%;
     margin : 1%;
 }
@@ -185,6 +187,14 @@ input[type=file]{
     display : flex;
     width : 98%;
     margin : 1%;
+    height : 40px;
+}
+#delete-hospital-view{
+    width : 80%;
+    height : 40px;
+}
+#delete-doctor-view{
+    width : 80%;
     height : 40px;
 }
 #view_hospital{
@@ -241,4 +251,24 @@ input[type=file]{
 }
 #sign-out{
     cursor : pointer;
+}
+#main-package{
+    width : 100%;
+    height : 100%;
+    background : rgba(234,234,234,0.7);
+}
+#all_package img{
+    width : 100%;
+    height : 200px;
+}
+#all_package section{
+    width : 32%;
+    margin : 1%;
+    border : 1px solid #ccc;
+}
+#all_package{
+    margin : 2%;
+    width : 96%;
+    display : flex;
+    background : #fff;
 }

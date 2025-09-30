@@ -1,25 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="045ab4c3-6c4a-4d9d-bb0e-8ec96653cefd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/about_image/about-img-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/load.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/main_home/slider-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/string.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/Pocket.php" afterDir="false" />
+    <list default="true" id="045ab4c3-6c4a-4d9d-bb0e-8ec96653cefd" name="Default Changelist" comment="Hello">
+      <change afterPath="$PROJECT_DIR$/account/packages/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/packages/html/package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/packages/html/payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/packages/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/payment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/SmartMedi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/SmartMedilogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/about-img-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/about-img-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/about-img-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/blog-img-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/blog-img-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/blog-img-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/footer-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/gallery-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/logo2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/logo2icon.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/menu-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/ptn-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/slider-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/slider-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/slider-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart/images/tag-line.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/account/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/account/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/build.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/string.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/hospitalDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/hospitalDB.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/test.php" afterDir="false" />
@@ -32,31 +63,55 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="code2bayaa &lt;bayaavint@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="25xeW8kKKgiQTaOnFOK7eNz2GAb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../student" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/xamp/htdocs/visit_hospital",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xamp\htdocs\visit_hospital\smart" />
+      <recent name="D:\xamp\htdocs\visit_hospital\php" />
       <recent name="D:\xampp\htdocs\visit_hospital\Images\about_image" />
       <recent name="D:\xampp\htdocs\visit_hospital\Images\main_home" />
       <recent name="D:\xampp\htdocs\visit_hospital\Images" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,28 +122,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646473193537</updated>
+      <workItem from="1657182805388" duration="1597000" />
+      <workItem from="1657185077644" duration="1837000" />
     </task>
+    <task id="LOCAL-00001" summary="Hello">
+      <created>1649065355734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649065355734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648240017177">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649326728642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1648240017177" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1649326728642" />
     <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647687613700">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1647687613700" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1648713266203">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1649065351036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1649065351036" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1649420847476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1647547919789" />
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648713266203" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1649050661435">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1649420847476" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1650952516686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1649480420309" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1646756732535" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1649050661435" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1650952516686" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1649065281065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

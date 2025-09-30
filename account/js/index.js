@@ -17,6 +17,7 @@ $(document).ready(function(){
             if(w.attributes[2]){
                 $('#' + w.id).slideUp('slow')
                 w.style.background = '#3F3F44'
+                w.style.color = '#000'
                 e.currentTarget.attributes[2].value = 0
             }
         });
@@ -26,6 +27,7 @@ $(document).ready(function(){
                 pins[k].innerHTML = "<i class='fas fa-folder'></i>";
                 w.style.background = 'transparent'
                 w.style.textDecoration = "none"
+                w.style.color = '#fff'
             }
         });
 
@@ -34,11 +36,13 @@ $(document).ready(function(){
             $('#' + panels[address].id).slideDown('slow')
             e.currentTarget.attributes[2].value = 1
             e.currentTarget.style.background = '#fff'
+            e.currentTarget.style.color = '#000'
             e.currentTarget.style.textDecoration = "underline"
             pins[address].innerHTML = "<i class='fas fa-folder-open'></i>";
         }else{
             $('#' + panels[address].id).slideUp('slow')
             panels[address].style.background = 'transparent'
+            panels[address].style.color = '#fff'
             pins[address].innerHTML = "<i class='fas fa-folder'></i>";
              e.currentTarget.attributes[2].value = 0
              e.currentTarget.style.background = 'transparent'
@@ -47,15 +51,31 @@ $(document).ready(function(){
     });
     $(document).on('click','#hospital',(e) => {
         e.preventDefault();
-        build.retrieveContent(e.currentTarget.attributes[1].value);
+        build.retrieveContent(e.currentTarget.attributes[2].value,e.currentTarget.attributes[1].value,e.currentTarget.attributes[3].value);
     })
     $(document).on('click','#delete',(e) => {
         e.preventDefault();
         build.delete_user(e);
     })
+    $(document).on('click','#delete-hospital',(e) => {
+        e.preventDefault();
+        build.delete_hospital(e);
+    })
+    $(document).on('click','#delete-doctor',(e) => {
+        e.preventDefault();
+        build.delete_doctor(e);
+    })
     $(document).on('click','#search_hospital',(e) => {
         e.preventDefault();
         build.search_hospital(e);
+    })
+    $(document).on('click','#search_doctor',(e) => {
+        e.preventDefault();
+        build.search_doctor(e);
+    })
+    $(document).on('click','#search_records',(e) => {
+        e.preventDefault();
+        build.search_records(e);
     })
     $(document).on('click','.input',function(e){
         e.preventDefault();
@@ -121,5 +141,9 @@ $(document).ready(function(){
     })
     $(document).on('click','#nowGo', (e) => {
         $('#pauseWindow').remove();
+    })
+    $(document).on('click','#apply', (e) => {
+        e.preventDefault();
+        build.apply_package(e);
     })
 });
